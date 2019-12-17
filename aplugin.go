@@ -1,4 +1,4 @@
-package main
+package ssp
 
 func Add(x, y int) int {
 	return x + y
